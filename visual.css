@@ -1,1 +1,41 @@
-#CSS File
+.body {
+	margin:0;
+
+}
+
+img{
+	max-height: 100%;
+	max-width: 100%;
+}
+
+.navigation {
+	background-color: #2196F3;
+	height: 60px;
+	width: 100%;
+	display:block;
+	position: relative;
+	float: left;
+
+
+}
+
+.Project_bar {
+	width: 80%;
+	margin: 10px 0px 10px 10px;
+	background-color: #fafafa;
+	height: 260px;
+	display:block;
+	position: relative;
+	float:left;
+	box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);	
+	padding: 10px;
+
+}
+
+.Pb_image {
+	width: 25%;
+	height: auto;
+	max-height: 220px;
+
+
+}
